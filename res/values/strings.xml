@@ -3,5 +3,11 @@
 
     <string name="hello">Hello World, MainActivity!</string>
     <string name="app_name">HelloLocalization</string>
-
+    <string name="textView1_str">textView 1 text</string>
+    <string name="textView2_str">textview2 text!!!!</string>
+	<string name="dialog1_title">No Localisation</string>
+	<string name="dialog1_text">This dialog box"'"s strings are not localised. For every locale, the text here will come from values/strings.xml.</string>
+    
 </resources>
+
+
