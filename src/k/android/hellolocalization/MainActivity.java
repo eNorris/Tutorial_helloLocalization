@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
         
         Button b;
         b = (Button)findViewById(R.id.button_id);
-        b.setBackgroundDrawable(this.getResources().getDrawable(R.drawable.usflagpng));
+        b.setBackgroundDrawable(this.getResources().getDrawable(R.drawable.usflag));
         
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setMessage(R.string.dialog1_text).
