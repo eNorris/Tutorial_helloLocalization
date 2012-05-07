@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bonjour, Localisation</string>
+    <string name="textView1_str">Irai-je te comparer au jour d\'été?</string>
+    <string name="textView2_str">Tu es plus tendre et bien plus tempéré.</string>
+    <string name="dialog1_title">Para vouis Frances?</string>
+    <string name="dialog1_text">Frenchy words are the most goodest!</string>
+</resources> 

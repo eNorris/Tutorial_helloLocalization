@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hallo, Lokalisierung</string>
+    <string name="textView1_str">Soll ich dich einem Sommertag vergleichen,</string>
+    <string name="textView2_str">Der du viel lieblicher und sanfter bist?</string>
+    <string name="dialog1_title">Title - This isn\'t English</string>
+    <string name="dialog1_text">text - What language is this in? Anyone know?</string>
+</resources>

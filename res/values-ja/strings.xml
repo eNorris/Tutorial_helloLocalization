@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textView1_str">あなたをなにかにたとえるとしたら夏の一日でしょうか？</string>
+    <string name="textView2_str">だがあなたはもっと美しく、もっとおだやかです。</string>
+    <string name="dialog1_title">Jap title</string>
+    <string name="dialog1_text">Jap text!!</string>
+</resources>
